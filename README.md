@@ -25,7 +25,7 @@ The system follows a hybrid cloud-local architecture:
 ## 📋 Installation & Setup
 
 ### 1. Backend (Kaggle)
-1.  Open the notebook `mistral-pdf-q-a.ipynb` in Kaggle.
+1.  Open the notebook `mistral_rag.ipynb` in Kaggle.
 2.  Install dependencies:
     ```bash
     pip install -r requirements.txt
@@ -38,8 +38,8 @@ The system follows a hybrid cloud-local architecture:
     ```bash
     pip install -r requirements.txt
     ```
-2.  Update the `BACKEND_URL` in `PDF QA Streamlit App.py` with your ngrok URL.
+2.  Update the `BACKEND_URL` in `app.py` with your ngrok URL.
 3.  Run the app:
     ```bash
-    streamlit run "PDF QA Streamlit App.py"
+    streamlit run app.py
     ```
