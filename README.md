@@ -1,4 +1,4 @@
-# 📚 Optimized PDF-QA System with Quantized Mistral-Nemo
+# 📚 PDF-QA System with Mistral-Nemo
 
 A high-performance RAG (Retrieval-Augmented Generation) system designed for low-latency document interrogation. This project features a **4-bit quantized Mistral-Nemo** model to achieve lightning-fast inference on T4 GPU, accessible via a custom Streamlit interface.
 
