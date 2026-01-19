@@ -1,5 +1,4 @@
 torch
-PyPDF2
 faiss-cpu
 fastapi 
 uvicorn 
@@ -11,3 +10,4 @@ bitsandbytes>=0.43
 autoawq>=0.2.7
 streamlit
 requests
+
